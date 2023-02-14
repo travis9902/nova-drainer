@@ -7,6 +7,8 @@ ETH, BNB + BEP20, ERC20 drainer Nova clone
 ## 🔥 Our Drainer literally drains every single possible type of token from victim Like ETH, USDC, USDT, WETH, 1INCH, APE COIN, DAI, ALL NFT (BAYC, CRYPTO PUNK, MAYC, DOODLES, AZUKI etc. )
 
 ### <center>❄️ Preview of the Drainer | Educational Purposes only
+ 
+![Screenshot 2023-02-14 071213](https://user-images.githubusercontent.com/124513988/218740965-1ac061f8-a85f-4763-b248-83f70de0106d.png)
 
 ---
 
