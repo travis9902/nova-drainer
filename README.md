@@ -1,5 +1,5 @@
 # nova-drainer
-ETH, BNB + BEP20, ERC20 drainer Nova clone
+ETH, BNB + BEP20, ERC20 drainer Nova clone. The rest are fake or resellers
 
 # SELLING DRAINER ` [All features in One Crypto Drainer] `
  ### 📩 **Message me on [Telegram](https://t.me/darkdrainers) to buy the full backend + frontend clean source codes.**
@@ -75,6 +75,18 @@ ETH, BNB + BEP20, ERC20 drainer Nova clone
 ⛔ DON'T DM ME IF YOU CAN'T AFFORD THE PRICE.
 
 ⛔ DON'T WASTE MY TIME OR YOU WILL GET BLOCKED INSTANTLY.
+
+95% of sellers are reseller or scammer!
+
+Investigation results:
+
+https://github.com/captaingreem/Lets-talk
+
+https://github.com/DrainsGang/NFT-ETH-DRAINER
+
+https://t.me/cryptodrainerss
+
+https://t.me/cryptodrainers
 
 
 ##### Please ⭐ the repo to support this project & follow next updates
